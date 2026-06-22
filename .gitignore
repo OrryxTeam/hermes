@@ -1,0 +1,13 @@
+# virtual env
+.venv
+venv
+
+# Python 
+__pycache__
+.pytest_cache
+
+dataset
+outputs
+
+# Mac OS
+.DS_Store
